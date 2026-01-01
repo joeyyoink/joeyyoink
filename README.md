@@ -1,4 +1,4 @@
-<p align="center">leona . leo . jerry ♡ leona yume </p>
+<p align="center">leona . leo . jerry ♡ leona yume </p>
 
 <p align="center"><img width="300" height="400" alt="Leona" src="https://github.com/user-attachments/assets/3e87bcf6-bd13-49c1-9854-5aaa2b65300c"> </p>
 
