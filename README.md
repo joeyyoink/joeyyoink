@@ -11,5 +11,5 @@
  ⟡
   <a href="https://fluffle.cc/leona">fluffle</a>
  ⟡
-  <a href="https://kingscholar.atabook.org">atabook</a>
+  <a href="https://2ndprince.atabook.org">atabook</a>
 </p>
