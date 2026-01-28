@@ -7,7 +7,7 @@
 <p align="Center">
  <a href="https://pronouns.cc/@kingsroar">pronouns</a>
  ⟡
- <a href="https://fluffle.cc/leonas">yume shrine</a>
+ <a href="https://fluffle.cc/herbivore">yume shrine</a>
  ⟡
   <a href="https://fluffle.cc/leona">fluffle</a>
  ⟡
